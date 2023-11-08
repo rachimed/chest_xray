@@ -1,0 +1,5 @@
+__MACOSX/
+chest_xray/
+test/
+train/
+val/
