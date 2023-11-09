@@ -1,2 +1,3 @@
 # chest_xray
-Precdict pneumonia from xray images
+First classification: Precdict pneumonia from xray images
+Second classification: Predict Type of pneumonia Bacterial/Viral
